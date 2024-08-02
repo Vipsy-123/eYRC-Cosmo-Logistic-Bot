@@ -3,6 +3,8 @@
 ## Theme Introduction
 The “Cosmo Logistic” theme of eYRC 2023-24 is set in a warehouse used for inter-planet logistics from a space station. A UR5 robotic arm and a Husky mobile robot collaborate to sort and prepare packages to be transported to different planets. In this theme, teams will develop an algorithm for sorting packages autonomously with the help of a robotic arm and mobile robot shown in the figure. Teams will learn to navigate this mobile robot with the help of SLAM (simultaneous localization and mapping) method in a warehouse, detect and localise the packages placed on racks, and manipulate the robotic arm to pick them.
 
+![Screenshot from 2024-08-02 16-08-00](https://github.com/user-attachments/assets/a06633a8-4657-472f-be9d-1edb41d775fb)
+
 ## Tasks
 ### __Task 1__
 > [___Task 1A (Object Pose Estimation)___ __::__](/Task%201/Task1A)
